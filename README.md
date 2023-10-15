@@ -1,5 +1,5 @@
 # XSS-ToUpperBypass
-A little python script that encod XSS payload to bypass a to Upper protection
+A little python script that encode JS XSS payload to bypass a to Upper protection
 
 ## Credits
 Based on the excellent work of Master SEC : https://master-sec.medium.com/bypass-uppercase-filters-like-a-pro-xss-advanced-methods-daf7a82673ce
